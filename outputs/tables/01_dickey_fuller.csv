@@ -1,0 +1,3 @@
+Serie,DF estadístico,DF p-valor,ADF estadístico,ADF p-valor,ADF rezagos
+log-precio en niveles,-0.8629,0.7999,-1.2700,0.6428,1
+Δ log-precio (retornos),-7.7275,0.0000,-7.1946,0.0000,1
