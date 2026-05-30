@@ -1,0 +1,29 @@
+# Dependencias del proyecto - Trabajo 1 Econometría II 2026-1S
+# Modelación ARIMA del Precio Internacional del Aluminio
+#
+# Instalación recomendada:
+#   conda create -n econometria2 python=3.12 -y
+#   conda activate econometria2
+#   pip install -r requirements.txt
+#
+# Verificación:
+#   python -c "import pandas, numpy, statsmodels, matplotlib, scipy; print('Todo OK')"
+
+# Manipulación de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Estadística y econometría
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Lectura auxiliar de archivos Excel
+openpyxl>=3.1.0
+
+# Entorno de notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
